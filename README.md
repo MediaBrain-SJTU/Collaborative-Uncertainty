@@ -1,1 +1,1 @@
-# Collaborative-Uncertainty
+# Collaborative Uncertainty
