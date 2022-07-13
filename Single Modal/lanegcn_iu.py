@@ -42,7 +42,7 @@ config["lr_func"] = StepLR(config["lr"], config["lr_epochs"])
 
 if "save_dir" not in config:
     config["save_dir"] = os.path.join(
-        root_path, "new_try", model_name
+        root_path, "log", model_name
     )
 
 if not os.path.isabs(config["save_dir"]):
