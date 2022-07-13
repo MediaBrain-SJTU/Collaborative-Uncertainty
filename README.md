@@ -1,6 +1,6 @@
 ## Collaborative Uncertainty
 
-**Official PyTorch code** for NeurIPS'21 paper [Collaborative Uncertainty in Multi-Agent Trajectory Forecasting](https://arxiv.org/abs/2110.13947) and journal version of it [Collaborative Uncertainty Benefits Multi-Agent Multi-Modal Trajectory Forecasting]().
+**Official PyTorch code** for NeurIPS'21 paper [Collaborative Uncertainty in Multi-Agent Trajectory Forecasting](https://arxiv.org/abs/2110.13947) and journal version of it [Collaborative Uncertainty Benefits Multi-Agent Multi-Modal Trajectory Forecasting](https://arxiv.org/abs/2207.05195).
 
 ![](imgs/framework.PNG)
 
