@@ -22,7 +22,7 @@ The blue line is the past trajectory, the green line is the ground truth future 
 * PyTorch == 1.8.1+cu111
 
 ## Data preparation
-You can find the data of Argoverse Dataset from [link](https://www.argoverse.org/av1.html#download-link).
+You can find the data of Argoverse Dataset from this [link](https://www.argoverse.org/av1.html#download-link).
 
 ## Overview
 
