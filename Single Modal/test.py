@@ -85,6 +85,7 @@ def main():
             output = net(data)
             results = [x[0:1].detach().cpu().numpy() for x in output["reg"]]
         for i, (argo_idx, pred_traj) in enumerate(zip(data["argo_id"], results)):
+            pred_traj = pred_traj.repeat(6, axis = 1)
             preds[argo_idx] = pred_traj.squeeze()
             cities[argo_idx] = data["city"][i]
             gts[argo_idx] = data["gt_preds"][i][0] if "gt_preds" in data else None
