@@ -41,7 +41,7 @@ We thanks for the Argoverse data and the code provided by LaneGCN ([Paper](https
 
 ## Citation
 
-If you use this code, please cite our paper:
+If you use this code, please cite our papers:
 
 ```
 @InProceedings{tang2021collaborative,
@@ -49,5 +49,18 @@ If you use this code, please cite our paper:
   author={Bohan Tang and Yiqi Zhong and Ulrich Neumann and Gang Wang and Ya Zhang and Siheng Chen},
   booktitle = {NeurIPS},
   year={2021}
+}
+```
+
+```
+@misc{https://doi.org/10.48550/arxiv.2207.05195,
+  doi = {10.48550/ARXIV.2207.05195},
+  url = {https://arxiv.org/abs/2207.05195},
+  author = {Tang, Bohan and Zhong, Yiqi and Xu, Chenxin and Wu, Wei-Tao and Neumann, Ulrich and Wang, Yanfeng and Zhang, Ya and Chen, Siheng},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), Machine Learning (stat.ML), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Collaborative Uncertainty Benefits Multi-Agent Multi-Modal Trajectory Forecasting},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {arXiv.org perpetual, non-exclusive license}
 }
 ```
