@@ -14,7 +14,7 @@ Please kindly find the description about the rest of code in [LaneGCN](https://g
 
 ## Examples
 
-You can download the pretrained models [here]().
+You can download the pretrained models [here](https://drive.google.com/file/d/1uU4JhoUl7FZvQwuvRIwQkykHMeRIpc1O/view?usp=sharing).
 
 - Training the model, run: horovodrun -np 2 -H localhost:4 python train.py -m "model_name" (e.g. lanegcn_cu).
 
