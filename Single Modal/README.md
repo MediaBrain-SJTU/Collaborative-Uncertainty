@@ -12,7 +12,7 @@ A quick summary of different folders:
 
 ## Examples
 
-You can download the pretrained models [here](https://drive.google.com/file/d/16rDvZxoMyKjoIRfpaaANvySgfHe9ncK3/view?usp=sharing).
+You can download the pretrained models [here](https://drive.google.com/file/d/1TCg-I_VA4RQA3_Cu6QugqelVImQQ4ULT/view?usp=sharing).
 
 - Training the model, run: horovodrun -np 2 -H localhost:4 python train.py -m "model_name" (e.g. lanegcn_cu).
 
